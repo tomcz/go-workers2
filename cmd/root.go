@@ -16,7 +16,7 @@ var rootCmd = &cobra.Command{
 	Use:   "goworkersctl",
 	Short: "goworkersctl is the GoWorkers2 cli tool",
 	Long: `
-  ___|    \ \        /          |                  ___ \
+   ___|    \ \        /          |                  ___ \
   |      _ \\ \  \   / _ \   __| |  /  _ \  __| __|    ) |
   |   | (   |\ \  \ / (   | |      <   __/ |  \__ \   __/
  \____|\___/  \_/\_/ \___/ _|   _|\_\\___|_|  ____/ _____|
