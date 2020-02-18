@@ -21,7 +21,7 @@ var rootCmd = &cobra.Command{
   |   | (   |\ \  \ / (   | |      <   __/ |  \__ \   __/
  \____|\___/  \_/\_/ \___/ _|   _|\_\\___|_|  ____/ _____|
 
-  goworkersctl is a cli tool that allows a user to easily get data from your
+  goworkersctl is a cli tool that allows a user to easily get data from their
   GoWorkers2 instance.`,
 }
 
